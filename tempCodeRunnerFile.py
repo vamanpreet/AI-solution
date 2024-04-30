@@ -1,0 +1,1 @@
+selected_items=[items[i]["name"] for i in range(len(items)) if best_chromosome[i]==1]
